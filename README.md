@@ -1,5 +1,5 @@
 # Shield Wallet
-## Winner of the Best Security Project at EthDam 2025 + OKX Solana Accelerate Hackathon Entry
+## OKX Solana Accelerate Hackathon 
 ![Shield Wallet Logo](./img/ShieldWalletLogo.png)
 
 Shield Wallet is a next-generation multisignature meta-transaction wallet designed for high-security asset management. It is simple yet robust, addressing vulnerabilities identified in existing solutions like Gnosis Safe that led to incidents such as the Bybit attack.
