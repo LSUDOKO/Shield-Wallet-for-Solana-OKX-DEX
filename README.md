@@ -114,30 +114,6 @@ Shield implements at its core a standard EIP-7579 executor interface supporting 
 - Hooks for modularity.
 - Monitoring and Response.
 
-## Hackathon Submission Template
-
-### PROJECT NAME
-
-Shield Wallet
-
-### DESCRIPTION OF THE PROJECT
-
-Shield Wallet is a next-generation, meta-transaction, multi-signature wallet with built-in, top-notch security features meant to fill a gap that Gnosis Safe cannot: high-capital management. Shield is simple but robust in its core and includes many features that have been designed by analyzing the current vulnerabilities in Gnosis Safe that led to attacks like the Bybit one.
-
-### DISCORD AND TELEGRAM USER NAME
-
-Discord: gianfrancobazzani  
-Telegram: @BazzaniGianfranco
-
-### REPOSITORY WITH PROJECT'S CODE
-
-https://github.com/AGMASO/EthDam-ShieldWallet
-
-### VIDEO DEMO OR PRESENTATION
-
-Slides: https://drive.google.com/file/d/1DfO8rMMnKsVJZTCEkC4Dipr-frhwjV5L/view?usp=sharing
-
-Video: https://www.youtube.com/watch?v=29K-B5NJKMI
 
 ### DEPLOYMENTS
 
