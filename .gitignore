@@ -1,0 +1,12 @@
+# Solana test ledger
+solana_contracts/test-ledger/
+
+# Node modules
+**/node_modules/
+
+# Build files
+**/target/
+**/dist/
+
+# Environment variables
+.env
